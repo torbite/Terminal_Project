@@ -12,6 +12,4 @@ these are the possible commands to use:
 - `echo` -> Edit files
 - `python` -> Execute python files
 
-Feedback
-Google Tradutor
 Fell free to run the `terminal.py` file and have a virtual mac terminal to use!
